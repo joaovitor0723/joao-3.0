@@ -1,2 +1,4 @@
-const menssage = "Flamengo maior do rio"
-console.log (menssage)
+let exemplo = 1
+let exemplo1 = "1"
+
+console.log(exemplo+exemplo1)
